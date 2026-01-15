@@ -18,7 +18,7 @@ st.set_page_config(
 st.markdown("""
 <style>
     .stApp {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: #f5f7fb;
     }
     .main {
         background-color: rgba(255, 255, 255, 0.95);
@@ -373,7 +373,7 @@ with tab3:
     This is an educational ML project. Predictions are estimates and should not replace professional nutritional advice.
     
     ---
-    **Made with ❤️ using Python & Machine Learning**
+    **Created by Aayush Panchal**
     """)
 
 # Footer
