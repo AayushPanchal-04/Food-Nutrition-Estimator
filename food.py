@@ -373,10 +373,11 @@ with tab3:
     This is an educational ML project. Predictions are estimates and should not replace professional nutritional advice.
     
     ---
-    **Created by Aayush Panchal**
+    **Built by Aayush Panchal**
     """)
 
 # Footer
 st.markdown("---")
 st.markdown("<p style='text-align: center; color: #667eea; font-weight: 600;'>© 2025 Food Nutrition Estimator</p>", 
             unsafe_allow_html=True)
+
