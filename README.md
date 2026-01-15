@@ -3,22 +3,6 @@
 > **AI-Powered Calorie Prediction from Food Ingredients**  
 > A machine learning project that predicts nutritional content using ensemble learning techniques.
 
----
-
-## 📋 Table of Contents
-- [Overview](#-overview)
-- [Features](#-features)
-- [Demo](#-demo)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Model Performance](#-model-performance)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Future Enhancements](#-future-enhancements)
-- [Contributing](#-contributing)
-- [License](#-license)
-
----
 
 ## 🎯 Overview
 
