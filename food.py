@@ -378,6 +378,7 @@ with tab3:
 
 # Footer
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: #667eea; font-weight: 600;'>© 2025 Food Nutrition Estimator</p>", 
+st.markdown("<p style='text-align: center; color: #667eea; font-weight: 600;'>Built by Aayush Panchal</p>", 
             unsafe_allow_html=True)
+
 
